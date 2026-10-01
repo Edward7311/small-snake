@@ -1,0 +1,14 @@
+# 可执行文件
+*.exe
+*.out
+
+# Visual Studio
+.vs/
+*.obj
+*.pdb
+*.ilk
+*.log
+ipch/
+x64/
+Debug/
+Release/
